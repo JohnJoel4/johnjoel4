@@ -1,4 +1,4 @@
-# John Joel Mota 👋
+# John Joel Mota 
 ### AI Software Engineer | Full Stack & ML Specialist
 
 I am an Lead AI Software Engineer with over 4 years of experience designing, developing, and deploying production-ready Machine Learning and Generative AI solutions. Currently completing my **MS in Artificial Intelligence at Saint Louis University**, I specialize in transforming complex data and research prototypes into scalable enterprise applications.
@@ -55,7 +55,8 @@ I am an Lead AI Software Engineer with over 4 years of experience designing, dev
 ---
 
 ### 📫 Contact Information
+* **Website:** johnmota.com
 * **Email:** johnmota0418@gmail.com
-* **Location:** St. Louis, MO
+* **Location:** St. Louis, MO, USA
 
 *"Building the future of AI, one commit at a time."*
